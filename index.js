@@ -33,7 +33,7 @@ const replaceVal = (tempVal, orgVal) => {
 };
 
 // api.openweathermap.org/data/2.5/weather?q=Pune&units=metric&appid=1c799347fe4f54d66a72fc1ce5c8dd4b
-let apiKey = "1c799347fe4f54d66a72fc1ce5c8dd4b";
+let apiKey = "YOUR KEY";
 
 app.post('/', function(req, res) {
 
